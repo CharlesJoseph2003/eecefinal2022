@@ -1,0 +1,1 @@
+Developed Checkers in Python using the Pygame library. Implemented features such as a graphical interface, player vs. player mode, legal piece movement, game state management, user input handling, visual feedback, customization options, and save/load functionality.
